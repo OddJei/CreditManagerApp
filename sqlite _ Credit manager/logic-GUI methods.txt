@@ -1,0 +1,124 @@
+Set 1: Essential Customer Management
+add_customer
+
+Adds a new customer to the database, optionally assigning an initial credit.
+
+fetch_all_customers
+
+Retrieves all customer records for display.
+
+fetch_customer_summary
+
+Fetches a detailed summary of credits, payments, and pending amounts for a specific customer.
+
+update_customer_details
+
+Updates the details of an existing customer (e.g., address, phone number, etc.).
+
+remove_customer
+
+Removes a customer and their associated records from the database.
+
+fetch_customer_by_name
+
+Fetches customer records using their name for search functionality.
+
+Set 2: Handling Credits and Payments
+add_credit_to_customer
+
+Adds a credit record for an existing customer.
+
+add_payment_to_customer
+
+Adds a payment record for an existing customer.
+
+fetch_pending_amount
+
+Retrieves the pending amount for a specific customer.
+
+fetch_unpaid_customers
+
+Identifies customers with credits but no payments.
+
+fetch_credit_history
+
+Fetches the credit history for a specific customer.
+
+fetch_payment_history
+
+Fetches the payment history for a specific customer.
+
+Set 3: Display and Record Management
+fetch_all_records
+
+Retrieves all customer records, including credit and payment details.
+
+fetch_paid_customers
+
+Identifies customers who have made payments.
+
+fetch_not_paid_records
+
+Retrieves customers with credits but no payments.
+
+get_customer_summary_by_name
+
+Fetches a detailed summary for customers using their name.
+
+get_credit_info_for_display
+
+Retrieves total credited amounts and credit dates for a specific customer.
+
+get_payment_info_for_display
+
+Retrieves total paid amounts and payment dates for a specific customer.
+
+Set 4: Query and Filtering Features
+filter_credits_by_date
+
+Filters credit records based on a specific date range.
+
+filter_payments_by_date
+
+Filters payment records based on a specific date range.
+
+fetch_total_credited
+
+Calculates the total credited amount across all customers or for a specific customer.
+
+fetch_total_paid
+
+Calculates the total paid amount across all customers or for a specific customer.
+
+fetch_customer_ids
+
+Retrieves all customer IDs for dropdowns or selection widgets.
+
+get_dashboard_summary
+
+Prepares a high-level summary for the dashboard, including totals for credits, payments, and pending balances.
+
+Set 5: Utilities and Extras
+bulk_add_customers
+
+Adds multiple customers at once, processing a list of customer data.
+
+bulk_add_credits
+
+Adds multiple credit entries for different customers at once.
+
+bulk_add_payments
+
+Adds multiple payment entries for different customers at once.
+
+fetch_customer_data_by_criteria
+
+Fetches customer details based on specific criteria (e.g., email, phone number).
+
+generate_report
+
+Generates a report summarizing credits, payments, and pending amounts for all customers.
+
+reset_database
+
+Resets the database by clearing all records (useful for testing or starting fresh).
