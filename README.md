@@ -55,15 +55,17 @@ Pillow for image rendering (optional)
  
 
 🧪 Screenshots 
+![Credits Manager 18_04_2025 01_39_18](https://github.com/user-attachments/assets/a05d5999-0b78-4004-8788-a2a0c1869c35)
+![Credits Manager 18_04_2025 01_38_58](https://github.com/user-attachments/assets/271f5748-f2ee-4ced-a308-2416b7b919fa)
+![Credits Manager 18_04_2025 01_38_41](https://github.com/user-attachments/assets/12c5e235-6c0f-45e0-8ad2-0edd019eec3e)
+![Complete Record View 18_04_2025 01_39_58](https://github.com/user-attachments/assets/932c5181-4fb5-4804-bf1c-4fa7ce6cf430)
 
 
  
 
 🚀Run the app: 
 
-python mainloigic![Credits Manager 18_04_2025 01_38_58](https://github.com/user-attachments/assets/ce3dbb8c-4513-4c4d-85f5-0626b0c7cd60)
-![Credits Manager 18_04_2025 01_38_41](https://github.com/user-attachments/assets/33f3b85a-8359-4f33-9670-9b95d904d59e)
-.py 
+python mainloigic.py 
   
 
  
